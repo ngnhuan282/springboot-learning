@@ -16,7 +16,7 @@ Springboot Learning Journey
 - [x] Day 2 - Connect Database, CRUD Api
 - [x] Day 3 - Basic Handling Exception and Validation
 - [x] Day 4 - Advanced Handling Exception and Validation
-- [x] Day 5 - Loombok and Mapstruct
+- [] Day 5 - Loombok and Mapstruct
       
 - [ ] Day 6 - Password Encoding with BCrypt
 - [ ] Day 7 - JWT Authentication
