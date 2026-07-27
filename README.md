@@ -18,9 +18,9 @@ Springboot Learning Journey
 - [x] Day 4 - Advanced Handling Exception and Validation
 - [x] Day 5 - Loombok and Mapstruct
       
-- [ ] Day 6 - Password Encoding with BCrypt
-- [ ] Day 7 - JWT Authentication
-- [ ] Day 8 - Spring Security
+- [x] Day 6 - Password Encoding with BCrypt
+- [x] Day 7 - JWT Authentication
+- [x] Day 8 - Spring Security
 - [ ] Day 9 - Authorization by JWT
 - [ ] Day 10 - Authorization with PreAuthorize and PostAuthorize
       
