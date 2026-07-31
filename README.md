@@ -21,8 +21,8 @@ Springboot Learning Journey
 - [x] Day 6 - Password Encoding with BCrypt
 - [x] Day 7 - JWT Authentication
 - [x] Day 8 - Spring Security
-- [ ] Day 9 - Authorization by JWT
-- [ ] Day 10 - Authorization with PreAuthorize and PostAuthorize
+- [x] Day 9 - Authorization by JWT
+- [x] Day 10 - Authorization with PreAuthorize and PostAuthorize
       
 - [ ] Day 11 - Global Exception Handling and Custom HTTP Response Codes
 - [ ] Day 12 - Role, Permission
