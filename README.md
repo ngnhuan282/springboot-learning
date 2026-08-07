@@ -26,8 +26,8 @@ Springboot Learning Journey
       
 - [x] Day 11 - Global Exception Handling and Custom HTTP Response Codes
 - [x] Day 12 - Role, Permission
-- [ ] Day 13 - Role-Based Authorization
-- [ ] Day 14 - Custom Validation
+- [x] Day 13 - Role-Based Authorization
+- [x] Day 14 - Custom Validation
 - [ ] Day 15 - Advanced Validation Custom
 
 - [ ] Day 16 - Logout with JWT token
