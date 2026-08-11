@@ -28,7 +28,7 @@ Springboot Learning Journey
 - [x] Day 12 - Role, Permission
 - [x] Day 13 - Role-Based Authorization
 - [x] Day 14 - Custom Validation
-- [ ] Day 15 - Advanced Validation Custom
+- [x] Day 15 - Advanced Validation Custom
 
 - [ ] Day 16 - Logout with JWT token
 - [ ] Day 17 - Refresh JWT Token Part1
