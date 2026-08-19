@@ -31,7 +31,7 @@ Springboot Learning Journey
 - [x] Day 15 - Advanced Validation Custom
 
 - [x] Day 16 - Logout with JWT token
-- [ ] Day 17 - Refresh JWT Token Part1
+- [x] Day 17 - Refresh JWT Token Part1
 - [ ] Day 18 - Refresh JWT Token Part2
 - [ ] Day 19 - UnitTest
 - [ ] Day 20 - Isolation in UnitTest
